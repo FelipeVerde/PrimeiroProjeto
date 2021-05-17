@@ -11,6 +11,6 @@ package com.mycompany.primeiroprojeto;
  */
 public class Principal {
     public static void main(String[] args) {
-        
+        system.out.println("Olá Mundo")
     }
 }
